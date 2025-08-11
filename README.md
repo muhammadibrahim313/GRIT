@@ -1,6 +1,6 @@
 # GRIT (Student‑First Path)
 
-**Owner:** Ibrahim Kasmi  
+
 **Purpose:** A student‑first, project‑driven path from zero → job‑ready in data science with Python.
 
 ## Roadmap (Phase 1)
