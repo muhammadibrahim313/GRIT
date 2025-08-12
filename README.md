@@ -1,4 +1,4 @@
-# GRIT (Student‑First Path)
+# GRIT
 
 
 **Purpose:** A student‑first, project‑driven path from zero → job‑ready in data science with Python.
@@ -23,5 +23,3 @@
 - Use PR template (coming soon)
 - License: MIT (code), CC BY‑NC 4.0 (content)
 
----
-_Last updated: 2025-07-27_
