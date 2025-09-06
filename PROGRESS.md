@@ -1,4 +1,6 @@
-# DSPY · Progress Log
+# GRIT · Progress Log
+
+==> About Growth through Rigorous Iterative Training
 
 Start date: 2025‑07‑27  
 Timezone: Asia/Karachi (PKT)

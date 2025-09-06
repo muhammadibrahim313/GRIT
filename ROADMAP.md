@@ -1,4 +1,6 @@
-# DSPY · 40‑Day Roadmap (PKT cadence)
+# GRIT · 40‑Day Roadmap (PKT cadence)
+
+==> About Growth through Rigorous Iterative Training
 
 Start date: 2025‑07‑27 (PKT)  
 Daily push window: 05:00–06:00 PKT
@@ -50,7 +52,7 @@ Daily push window: 05:00–06:00 PKT
 - [ ] Day 40 — ML Project 2 (regression, end‑to‑end)
 
 ## Daily PR pattern
-- Branch: `dspy/day-XX`
-- Title: `DSPY Day XX — <topic>`
+- Branch: `grit/day-XX`
+- Title: `GRIT Day XX — <topic>`
 - Body: overview, steps to run, screenshots (if any), checklist links to `ROADMAP.md` & `PROGRESS.md`.
 
