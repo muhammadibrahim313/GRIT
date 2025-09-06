@@ -5,6 +5,7 @@
 Welcome to the Python Fundamentals course! This 10-day journey will take you from complete beginner to having a solid understanding of Python programming. Each notebook is designed to be completed in about 30-60 minutes, with clear explanations, practical examples, and hands-on exercises.
 
 **Instructor**: Muhammad Ibrahim  Qasmi 
+<br>
 **LinkedIn**: [Check my Linkedin](https://www.linkedin.com/in/ibrahimqasmi313/)
 
 ## 📚 Course Structure
