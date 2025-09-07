@@ -1,0 +1,4 @@
+Hello, this is a sample text file!
+It has multiple lines.
+Each line ends with a newline character.
+Python can read all of this easily!
