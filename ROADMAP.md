@@ -17,13 +17,13 @@ Daily push window: 05:00–06:00 PKT
 - [ ] Day 09 — Debugging & Testing (pytest); refactor Day 07
 - [ ] Day 10 — Review & Micro‑project (wrap Python week)
 
-- [ ] Day 11 — Relational Basics, ERD, SQLite setup
-- [ ] Day 12 — SELECT, WHERE, ORDER BY; filtering patterns
-- [ ] Day 13 — JOINs (inner/left/right/full/anti/semi)
-- [ ] Day 14 — Aggregations, GROUP BY, HAVING; window intro
-- [ ] Day 15 — CTEs & subqueries; readability & perf
-- [ ] Day 16 — Indexes, EXPLAIN, query tuning
-- [ ] Day 17 — SQL Weekly Project (e‑commerce analytics)
+- [ ] Day 11 — SQL Basics (01_sql_basics.ipynb)
+- [ ] Day 12 — Data Types & Operators (02_data_types_operators.ipynb)
+- [ ] Day 13 — Aggregation & Grouping (03_aggregation_grouping.ipynb)
+- [ ] Day 14 — JOINs & Relationships (04_joins_relationships.ipynb)
+- [ ] Day 15 — Subqueries & CTEs (05_subqueries_ctes.ipynb)
+- [ ] Day 16 — Data Manipulation (06_data_manipulation.ipynb)
+- [ ] Day 17 — SQL Project (07_sql_project.ipynb)
 
 - [ ] Day 18 — NumPy arrays, broadcasting, vectorization
 - [ ] Day 19 — Pandas indexing, selection, dtypes, tidy

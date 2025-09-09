@@ -1,3 +1,8 @@
 # Minimal requirements for local dev (optional)
 jupyter
 ipykernel
+
+# SQL course requirements
+ipython-sql        # SQL magic commands in Jupyter
+sqlalchemy         # Database connectivity
+pandas             # Data manipulation (for some examples)
