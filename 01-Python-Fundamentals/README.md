@@ -6,7 +6,7 @@ Welcome to the Python Fundamentals course! This 10-day journey will take you fro
 
 **Instructor**: Muhammad Ibrahim  Qasmi 
 <br>
-**LinkedIn**: [Check my Linkedin](https://www.linkedin.com/in/ibrahimqasmi313/)
+**LinkedIn**: [Connect with me Linkedin](https://www.linkedin.com/in/ibrahimqasmi313/)
 
 ## 📚 Course Structure
 
