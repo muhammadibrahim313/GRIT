@@ -1,4 +1,4 @@
-# GRIT: SQL Mastery (7 Days)
+# GRIT: SQL Mastery (7 Days)(in jupyter notebooks)
 
 ==> About Growth through Rigorous Iterative Training
 
