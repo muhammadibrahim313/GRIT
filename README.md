@@ -1,4 +1,4 @@
-# 🚀 GRIT - Get Ready for IT
+# 🚀 GRIT - Growth through Rigorous Iterative Training
 
 > **Your Complete Path from Zero to Data Science Pro** 🎯
 
