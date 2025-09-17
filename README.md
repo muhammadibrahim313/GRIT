@@ -10,7 +10,7 @@
 ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen)
 ![Status](https://img.shields.io/badge/Status-Active-success)
 
-**🔥 Learn Data Science • Build Projects • Get Job-Ready • 100% Free Forever 🔥**
+*🔥 Learn Data Science • Build Projects • Get Job-Ready • 100% Free Forever 🔥*
 
 [Start Learning](#-quick-start) • [Roadmap](#-complete-roadmap) • [Daily Plan](#-daily-rhythm) • [Contribute](#-contribute)
 
