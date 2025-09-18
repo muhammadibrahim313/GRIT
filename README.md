@@ -252,4 +252,5 @@ GRIT is open source and we love contributions!
 
 ---
 
-**Made with ❤️ by the MIQ**
+**Made with ❤️ by the **
+****
