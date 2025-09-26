@@ -1,0 +1,39 @@
+{
+  "model_name": "churn_prediction_pipeline",
+  "version": "1.0.0",
+  "created_date": "2025-09-26T09:49:07.932994",
+  "model_type": "Pipeline",
+  "features": [
+    "age",
+    "tenure_months",
+    "monthly_charges",
+    "total_charges",
+    "num_services",
+    "contract_type",
+    "payment_method",
+    "internet_service",
+    "tech_support",
+    "online_security",
+    "device_protection",
+    "streaming_tv",
+    "streaming_movies",
+    "satisfaction_score",
+    "support_tickets",
+    "late_payments"
+  ],
+  "performance": {
+    "roc_auc": 0.8027021972884525,
+    "accuracy": 0.722,
+    "precision": 0.7222222222222222,
+    "recall": 0.16774193548387098
+  },
+  "training_data_shape": [
+    4000,
+    16
+  ],
+  "parameters": {
+    "classifier__max_depth": 5,
+    "classifier__min_samples_split": 5,
+    "classifier__n_estimators": 200,
+    "preprocessor__num__imputer__strategy": "median",
+    "preprocessor__num__scaler": 
