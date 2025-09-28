@@ -6,3 +6,19 @@ ipykernel
 ipython-sql        # SQL magic commands in Jupyter
 sqlalchemy         # Database connectivity
 pandas             # Data manipulation (for some examples)
+numpy
+matplotlib         # Plotting (for some examples)
+seaborn            # Plotting (for some examples)
+plotly             # Interactive plots (for some examples)
+psycopg2-binary   # PostgreSQL adapter (if using PostgreSQL)
+mysql-connector-python  # MySQL adapter (if using MySQL)
+sqlite3           # SQLite (comes with Python standard library)
+pymysql          # MySQL adapter (alternative)
+pyodbc           # ODBC adapter (if using SQL Server or other ODBC databases)
+snowflake-connector-python  # Snowflake adapter (if using Snowflake)
+google-cloud-bigquery  # BigQuery adapter (if using Google BigQuery)
+google-cloud-bigquery[pandas]  # BigQuery with pandas support
+duckdb           # DuckDB adapter (if using DuckDB)
+redshift-connector  # Redshift adapter (if using Amazon Redshift)
+sqlparse         # SQL parsing and formatting
+alembic         # Database migrations (if needed)
