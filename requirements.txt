@@ -1,4 +1,5 @@
-# Minimal requirements for local dev (optional)
+# Minimal requirements for local development
+python>=3.8
 jupyter
 ipykernel
 
