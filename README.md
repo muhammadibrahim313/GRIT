@@ -1,3 +1,5 @@
+# -->work in progress
+
 # 🚀 GRIT - Growth through Rigorous Iterative Training
 
 > **Your Complete Path from Zero to JOB READY** 🎯
