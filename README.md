@@ -1,258 +1,161 @@
-# -->work in progress
+# GRIT - Growth through Rigorous Iterative Training
 
-# 🚀 GRIT - Growth through Rigorous Iterative Training
+**Complete Data Science Learning Path: Zero to Job-Ready**
 
-> **Your Complete Path from Zero to JOB READY** 🎯
+A comprehensive, project-based curriculum covering Python, SQL, data analysis, and machine learning. Built for self-learners who want practical skills and a strong portfolio.
 
-<div align="center">
+## What This Is
 
-![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
-![SQL](https://img.shields.io/badge/SQL-Mastery-green)
-![License](https://img.shields.io/badge/License-MIT-yellow)
-![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen)
-![Status](https://img.shields.io/badge/Status-Active-success)
+GRIT is a structured learning path that takes you from zero coding experience to job-ready data scientist. Each module builds on the previous one, with hands-on projects and real-world applications.
 
-**🔥 Learn Data Science • Build Projects • Get Job-Ready • 100% Free Forever 🔥**
+**Core Principles:**
+- Project-based learning (build your portfolio as you learn)
+- Incremental progression (master fundamentals before advancing)
+- Industry-focused skills (learn what employers actually need)
+- Open source and completely free
 
-[Start Learning](#-quick-start) • [Roadmap](#-complete-roadmap) • [Daily Plan](#-daily-rhythm) • [Contribute](#-contribute)
+## Repository Structure
 
-</div>
+### 01-Python-Fundamentals
+Master Python basics through 10 progressive notebooks. Covers variables, data structures, control flow, functions, and file handling. Each notebook includes exercises and debug challenges.
 
----
+**Projects:** Calculator app, text parser, data cleaner
 
-## 🎯 Why GRIT?
+### 02-SQL-Mastery
+Learn SQL from basics to advanced queries. Includes practical database design, joins, aggregations, and query optimization using real e-commerce data.
 
-- **🆓 Completely Free** - No paywalls, no subscriptions, ever
-- **📚 Zero to Hero** - Start with zero coding knowledge
-- **🏗️ Project-Based** - Build real portfolio projects, not toy examples  
-- **⏱️ Time-Tested** - Follow a proven daily rhythm that works
-- **💼 Job-Focused** - Learn exactly what employers want
-- **🌟 Community-Driven** - Built by learners, for learners
+**Projects:** Business analytics dashboard, customer segmentation analysis
 
----
+### 03-Data-Libraries
+Deep dive into the Python data science stack:
+- **NumPy:** Array operations, vectorization, linear algebra
+- **Pandas:** Data manipulation, cleaning, transformation
+- **Matplotlib:** Publication-quality static visualizations
+- **Seaborn:** Statistical graphics and analysis
+- **Plotly:** Interactive dashboards and web visualizations
 
-## 📊 Complete Roadmap
+**Projects:** Customer analytics pipeline, interactive sales dashboard, image processing system
 
-### ✅ Phase 1: Foundations (Months 1-2)
+### 04-Data-Science-Foundations
+Mathematical foundations for data science:
+- Mathematics for data science
+- Statistics and probability
+- Data preprocessing techniques
+- Exploratory data analysis framework
+- End-to-end ML pipeline
 
-| Module | Duration | Status | What You'll Build |
-|--------|----------|--------|------------------|
-| **01-Python-Fundamentals** | 10 days | ✅ Complete | Calculator, Games, Data Parser |
-| **02-SQL-Mastery** | 7 days | ✅ Complete | E-commerce Analytics, Business Reports |
-| **03-Data-Libraries** | 5 weeks | ✅ Complete | Interactive Dashboards |
-| ├─ NumPy | 1 week | ✅ | Image Processing, Neural Network |
-| ├─ Pandas | 1 week | ✅ | Customer Analytics Pipeline |
-| ├─ Matplotlib | 1 week | ✅ | Publication-Quality Plots |
-| ├─ Seaborn | 1 week | ✅ | Statistical Visualizations |
-| └─ Plotly | 1 week | ✅ | Interactive Web Dashboards |
+**Projects:** Statistical analysis toolkit, data preprocessing pipeline
 
-### 🚧 Phase 2: Real-World Application (Month 3)
+### 05-Kaggle-Notebooks
+Curated collection of 29 high-impact Kaggle notebooks covering:
+- Exploratory data analysis techniques
+- Feature engineering strategies
+- Machine learning model development
+- Deep learning applications
+- NLP and text analysis
+- Data visualization best practices
+- Competition strategies
 
-| Module | Duration | Status | What You'll Build |
-|--------|----------|--------|------------------|
-| **04-EDA-Labs** | 30 days | 🔄 In Progress | 30 Portfolio Projects |
-| ├─ Business Analytics | 5 projects | 🔜 | Sales, Churn, A/B Testing |
-| ├─ Finance Analytics | 5 projects | 🔜 | Stocks, Risk, Fraud Detection |
-| ├─ Healthcare | 5 projects | 🔜 | Patient Analysis, Disease Patterns |
-| ├─ Social Media | 5 projects | 🔜 | Sentiment, Engagement, Trends |
-| ├─ Sports Analytics | 5 projects | 🔜 | Player Stats, Match Predictions |
-| └─ Tech Companies | 5 projects | 🔜 | Uber, Netflix, Spotify Analysis |
+Each notebook is selected for teaching value and real-world applicability. Includes beginner to advanced content across multiple domains.
 
-### 🔮 Phase 3: Advanced Topics (Months 4-6)
+## Learning Path
 
-| Module | Duration | Status | What You'll Build |
-|--------|----------|--------|------------------|
-| **05-Machine-Learning** | 4 weeks | 📝 Planned | Predictive Models, Recommendation Systems |
-| **06-Deep-Learning** | 4 weeks | 📝 Planned | Image Classifier, Text Generator |
-| **07-NLP** | 3 weeks | 📝 Planned | Chatbot, Sentiment Analyzer |
-| **08-MLOps** | 1 week | 📝 Planned | Deployed ML Application |
+**Phase 1: Foundations (2 months)**
+1. Python Fundamentals (10 days)
+2. SQL Mastery (7 days)
+3. Data Libraries (5 weeks)
 
----
+**Phase 2: Core Skills (1 month)**
+1. Data Science Foundations (2 weeks)
+2. Kaggle Notebooks Study (2 weeks)
 
-## 📅 Daily Rhythm
+**Phase 3: Advanced Topics (3+ months)**
+- Machine learning algorithms
+- Deep learning and neural networks
+- Natural language processing
+- MLOps and deployment
 
-Your daily learning routine - proven to work:
-
-```markdown
-🌅 Morning (45-90 min)
-├── 📖 Read notebook (10-20 min)
-├── 💻 Code along (15-30 min)  
-├── ✍️ Do exercises (20-40 min)
-└── 🐛 Fix 1 "debug-me" cell (10 min)
-
-🌙 Evening (Optional 30 min)
-└── 📝 Review & make notes
-```
-
----
-
-## 🚀 Quick Start
+## Getting Started
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/GRIT.git
-
-# Navigate to the project
+git clone https://github.com/muhammadibrahim313/GRIT.git
 cd GRIT
 
-# Start with Python Fundamentals
+# Start with Python fundamentals
 cd 01-Python-Fundamentals
-
-# Open the first notebook
-jupyter notebook 01_variables_and_data_types.ipynb
+jupyter notebook 01_hello_python.ipynb
 ```
 
----
+**Recommended approach:**
+- Spend 45-90 minutes daily on structured learning
+- Complete exercises before moving forward
+- Build the projects (essential for portfolio)
+- Review and take notes regularly
 
-## 📂 Project Structure
+## Prerequisites
 
-```
-GRIT/
-│
-├── 📘 01-Python-Fundamentals/    # Start here if new to coding
-│   ├── 01_variables.ipynb
-│   ├── 02_control_flow.ipynb
-│   └── ...
-│
-├── 📗 02-SQL-Mastery/            # Database skills
-│   ├── 01_sql_basics.ipynb
-│   ├── ecommerce.db
-│   └── ...
-│
-├── 📙 03-Data-Libraries/         # Data science toolkit
-│   ├── 01_numpy_mastery.ipynb
-│   ├── 02_pandas_mastery.ipynb
-│   └── ...
-│
-├── 🔬 04-EDA-Labs/              # Build your portfolio
-│   └── [30 real-world projects]
-│
-└── 📚 Resources/                 # Extra materials
-    ├── cheatsheets/
-    ├── datasets/
-    └── solutions/
-```
+**Required:**
+- Computer with internet access
+- Willingness to learn and practice consistently
 
----
+**Helpful but not required:**
+- Basic computer literacy
+- High school math
 
-## 🎓 What You'll Learn
+## Tech Stack
 
-<details>
-<summary><b>🐍 Python Programming</b></summary>
+- Python 3.8+
+- Jupyter Notebooks
+- pandas, numpy, matplotlib, seaborn, plotly
+- scikit-learn, scipy
+- SQLite
 
-- Variables, data types, operators
-- Control flow (if/else, loops)
-- Functions and modules
-- Object-oriented programming
-- File handling and APIs
-- Error handling and debugging
-</details>
+## Projects You'll Build
 
-<details>
-<summary><b>🗃️ SQL & Databases</b></summary>
+By the end of this curriculum, you'll have built:
+- 15+ data analysis projects
+- Multiple ML applications
+- Interactive dashboards
+- SQL-based business analytics
+- Data preprocessing pipelines
+- Portfolio-ready notebooks
 
-- SELECT, WHERE, JOIN operations
-- Aggregations and grouping
-- Subqueries and CTEs
-- Database design
-- Query optimization
-- Real-world business queries
-</details>
+## Contributing
 
-<details>
-<summary><b>📊 Data Analysis & Visualization</b></summary>
+Contributions are welcome. Please:
+1. Fork the repository
+2. Create a feature branch
+3. Make your changes
+4. Submit a pull request
 
-- NumPy for numerical computing
-- Pandas for data manipulation
-- Matplotlib/Seaborn for statistical plots
-- Plotly for interactive dashboards
-- EDA best practices
-- Storytelling with data
-</details>
+Focus areas for contribution:
+- Additional exercises
+- Project ideas
+- Bug fixes
+- Documentation improvements
+- Dataset additions
 
-<details>
-<summary><b>🤖 Machine Learning</b></summary>
+## License
 
-- Supervised learning algorithms
-- Unsupervised learning
-- Feature engineering
-- Model evaluation
-- Cross-validation
-- Real-world ML projects
-</details>
+- Code: MIT License
+- Educational content: CC BY-NC 4.0
+
+## Progress Tracking
+
+Check [PROGRESS.md](PROGRESS.md) for detailed completion status and [ROADMAP.md](ROADMAP.md) for planned features.
+
+## Support
+
+- Issues: Report bugs or request features via GitHub Issues
+- Discussions: Share ideas and ask questions in Discussions
+
+## Acknowledgments
+
+Built by learners, for learners. Thanks to all contributors and the open-source data science community.
 
 ---
 
-## 🏆 Success Stories
+**Note:** This is a living curriculum. Content is regularly updated based on industry trends and community feedback.
 
-> "GRIT took me from zero coding experience to a data analyst role in 6 months!" - *Student*
-
-> "The project-based approach made learning fun and gave me a portfolio to show employers." - *Student*
-
-> "Finally, a free resource that's actually comprehensive and job-focused!" - *Student*
-
----
-
-## 🤝 Contribute
-
-GRIT is open source and we love contributions!
-
-### How to Contribute
-
-1. 🍴 Fork the repository
-2. 🌟 Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. 💻 Commit your changes (`git commit -m 'Add AmazingFeature'`)
-4. 📤 Push to the branch (`git push origin feature/AmazingFeature`)
-5. 🎯 Open a Pull Request
-
-### Contribution Ideas
-
-- 🐛 Fix bugs or typos
-- 📝 Add new exercises
-- 🎨 Improve visualizations
-- 📚 Create cheatsheets
-- 🌍 Translate content
-- ⭐ Share the project
-
----
-
-## 📜 License
-
-- **Code**: MIT License - use freely in your projects
-- **Educational Content**: CC BY-NC 4.0 - free for learning, not for commercial courses
-
----
-
-## 🙏 Acknowledgments
-
-- All amazing contributors
-- The Python and Data Science community
-- You, for choosing to learn with GRIT!
-
----
-
-## 📬 Connect
-
-- 🐛 **Issues**: [Report bugs](https://github.com/yourusername/GRIT/issues)
-- 💡 **Discussions**: [Share ideas](https://github.com/yourusername/GRIT/discussions)
-- 🐦 **Twitter**: [@grit_learns](https://twitter.com/grit_learns)
-- 📧 **Email**: grit.learns@gmail.com
-
----
-
-<div align="center">
-
-### 🌟 Start Your Data Science Journey Today! 🌟
-
-**Remember**: Every expert was once a beginner. Your journey starts with Day 1.
-
-[⬆ Back to Top](#-grit---get-ready-for-it)
-
-*If GRIT helps you, please ⭐ this repository to help others find it!*
-
-</div>
-
----
-
-**Made with ❤️ by the**
-****
+Start your data science journey today. Every expert was once a beginner.
